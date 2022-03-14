@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/37132897/158106860-000ea9b0-c939-4459-9162-a844115ef50e.png)
 
 // 정수형 변수
+
       var 변수하나 = 100;
       
       변수하나 = 150;
@@ -14,6 +15,7 @@
       document.write("<br>");
       
 // 문자형 변수
+
       var 변수둘 = "200";
       
       변수둘 = "250";
