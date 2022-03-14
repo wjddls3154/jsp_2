@@ -13,3 +13,4 @@
       document.write(typeof 변수둘);
       document.write("<br>");
       document.write(변수둘[0]); // 변수둘의 값 200중, 첫번째 인덱스 2 를 출력
+![image](https://user-images.githubusercontent.com/37132897/158106860-000ea9b0-c939-4459-9162-a844115ef50e.png)
